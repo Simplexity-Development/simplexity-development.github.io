@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"adhdmc.villagerinfo"},{"l":"adhdmc.villagerinfo.config"},{"l":"adhdmc.villagerinfo.util"},{"l":"adhdmc.villagerinfo.villager_handling"},{"l":"All Packages","u":"allpackages-index.html"}];updateSearchResults();
