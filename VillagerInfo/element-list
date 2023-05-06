@@ -1,5 +1,9 @@
 adhdmc.villagerinfo
-adhdmc.villagerinfo.config
+adhdmc.villagerinfo.commands
+adhdmc.villagerinfo.configurations.locale
+adhdmc.villagerinfo.configurations.pluginfunctionality
 adhdmc.villagerinfo.events
-adhdmc.villagerinfo.message
-adhdmc.villagerinfo.villagerhandling
+adhdmc.villagerinfo.formatting
+adhdmc.villagerinfo.highlighting
+adhdmc.villagerinfo.listeners
+adhdmc.villagerinfo.util
