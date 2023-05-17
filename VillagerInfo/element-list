@@ -7,6 +7,6 @@ simplexity.villagerinfo.configurations.locale
 simplexity.villagerinfo.configurations.pluginfunctionality
 simplexity.villagerinfo.events
 simplexity.villagerinfo.formatting
-simplexity.villagerinfo.interactionlogic
-simplexity.villagerinfo.listeners
+simplexity.villagerinfo.interaction.listeners
+simplexity.villagerinfo.interaction.logic
 simplexity.villagerinfo.util
