@@ -38,7 +38,7 @@ li {
     margin: 10px;
 }
 
-button {
+a {
     display: block;
     padding: 10px 20px;
     background-color: #333;
@@ -50,6 +50,6 @@ button {
     transition: all 0.2s ease-in-out;
 }
 
-button:hover {
+a:hover {
     background-color: #666;
 }
