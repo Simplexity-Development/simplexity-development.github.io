@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"simplexity.invisibleframes"},{"l":"simplexity.invisibleframes.hooks"},{"l":"simplexity.invisibleframes.util"}];updateSearchResults();

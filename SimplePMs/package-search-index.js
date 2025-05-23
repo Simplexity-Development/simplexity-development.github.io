@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"adhdmc.simplepms"},{"l":"adhdmc.simplepms.commands"},{"l":"adhdmc.simplepms.config"},{"l":"adhdmc.simplepms.events"},{"l":"adhdmc.simplepms.handling"},{"l":"adhdmc.simplepms.listeners"},{"l":"adhdmc.simplepms.utils"},{"l":"All Packages","u":"allpackages-index.html"}];updateSearchResults();
